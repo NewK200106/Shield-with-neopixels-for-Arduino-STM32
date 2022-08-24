@@ -1,0 +1,183 @@
+{
+  "uuid": "4cc57ca825d7d4a091c43c58ea7566d2",
+  "path": "Offline/P%C5%82ytka%20na%20neopixele%20i%20modu%C5%82%20d%C5%BAwi%C4%99kowy",
+  "name": "Płytka na neopixele i moduł dźwiękowy",
+  "content": "",
+  "created_at": "2022-05-19 19:18:50",
+  "updated_at": "2022-08-24 20:56:20",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ab5290f911b79259a1bd2cf4ec9e84b6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "399aaac311584ee58f73b85915114113": 1,
+        "5b4421c8090549fba14e6aff4bc8ef9a": 2,
+        "f683acc60e764395928b5c4e15016220": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "dfb51838230b431095c08441532c4623": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PINHEADER1X4",
+          2,
+          "PINHEADER1X4",
+          "DIODE_NR_1,DIODE_NR_2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "1ddde871e5f4493dbf6a0e0f0635a4e8",
+            "uuid": "dfb51838230b431095c08441532c4623"
+          }
+        ],
+        [
+          "1k",
+          3,
+          "R0805",
+          "R1,R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "PINHEADER1X6",
+          1,
+          "PINHEADER1X6",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "cdca4cbc3d6a432abbdb10520465eef4",
+            "uuid": "399aaac311584ee58f73b85915114113"
+          }
+        ],
+        [
+          "PINHEADER1X8",
+          2,
+          "PINHEADER1X8",
+          "U2,U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "62099042307f47ccb873e2d5fc344c7f",
+            "uuid": "5b4421c8090549fba14e6aff4bc8ef9a"
+          }
+        ],
+        [
+          "PINHEADER1X10",
+          1,
+          "PINHEADER1X10",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "d09cc26df1934023bbe6a0613ec3f546",
+            "uuid": "f683acc60e764395928b5c4e15016220"
+          }
+        ]
+      ],
+      "updateTime": 1661367168,
+      "createTime": 1652980730,
+      "histories": [],
+      "created_at": "2022-05-19 19:18:50",
+      "updated_at": "2022-08-24 20:52:48"
+    },
+    {
+      "uuid": "85976a6183689d4f2aeb1671f62647d3",
+      "puuid": "4cc57ca825d7d4a091c43c58ea7566d2",
+      "title": "PCB_Płytka na neopixele i moduł dźwiękowy_2",
+      "filename": "PCB_Płytka na neopixele i moduł dźwiękowy_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "cdca4cbc3d6a432abbdb10520465eef4": 1,
+        "62099042307f47ccb873e2d5fc344c7f": 2,
+        "d09cc26df1934023bbe6a0613ec3f546": 1,
+        "398691f1f785460098bbe5ee6590333c": 3,
+        "5773f933dcaf44259988a87347341d3a": 2
+      },
+      "BOM": [],
+      "updateTime": 1661363184,
+      "createTime": 1652983809,
+      "histories": [],
+      "created_at": "2022-05-19 20:10:09",
+      "updated_at": "2022-08-24 19:46:24"
+    },
+    {
+      "uuid": "97489ac4608c6eb1b571ad1dba50f08a",
+      "puuid": "4cc57ca825d7d4a091c43c58ea7566d2",
+      "title": "PCB_Płytka na neopixele i moduł dźwiękowy_3",
+      "filename": "PCB_Płytka na neopixele i moduł dźwiękowy_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5773f933dcaf44259988a87347341d3a": 2,
+        "cdca4cbc3d6a432abbdb10520465eef4": 1,
+        "62099042307f47ccb873e2d5fc344c7f": 2,
+        "d09cc26df1934023bbe6a0613ec3f546": 1,
+        "398691f1f785460098bbe5ee6590333c": 3
+      },
+      "BOM": [],
+      "updateTime": 1661290898,
+      "createTime": 1656447759,
+      "histories": [],
+      "created_at": "2022-06-28 22:22:39",
+      "updated_at": "2022-08-23 23:41:38"
+    },
+    {
+      "uuid": "1ab18b425c7692160e4bceb659b8e430",
+      "puuid": "4cc57ca825d7d4a091c43c58ea7566d2",
+      "title": "PCB_Płytka na neopixele i moduł dźwiękowy_4",
+      "filename": "PCB_Płytka na neopixele i moduł dźwiękowy_4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b60f399a7a7e41848b2be1eb49c79141": 3,
+        "cdca4cbc3d6a432abbdb10520465eef4": 1,
+        "62099042307f47ccb873e2d5fc344c7f": 2,
+        "d09cc26df1934023bbe6a0613ec3f546": 1,
+        "1ddde871e5f4493dbf6a0e0f0635a4e8": 2
+      },
+      "BOM": [],
+      "updateTime": 1661367380,
+      "createTime": 1661289029,
+      "histories": [],
+      "created_at": "2022-08-23 23:10:29",
+      "updated_at": "2022-08-24 20:56:20"
+    }
+  ],
+  "sort": [],
+  "title": "Płytka na neopixele i moduł dźwiękowy",
+  "foldername": "Płytka na neopixele i moduł dźwiękowy",
+  "schfilename": "Płytka na neopixele i moduł dźwiękowy.json",
+  "schfilemtime": 1661367168888
+}
